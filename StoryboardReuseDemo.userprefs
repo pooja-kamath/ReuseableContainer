@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{FCBBC212-88CB-4DF7-9EB3-E8BB790BDA5B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StoryboardReuseDemo/Main.cs">
+    <Files>
+      <File FileName="StoryboardReuseDemo/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="StoryboardReuseDemo/Main.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StoryboardReuseDemo PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A3A58618-03D0-4F2A-80F6-42F1C0F8D62F">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.StoryboardReuseDemo>
+</Properties>
